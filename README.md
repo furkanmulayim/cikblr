@@ -1,0 +1,2 @@
+# cikblr
+henüz geliştirme aşamasındadır..
